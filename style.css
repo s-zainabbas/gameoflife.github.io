@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+canvas {
+  border: 1px solid #000;
+  cursor: pointer;
+}
+
+.controls {
+  margin-top: 10px;
+}
+
+button,
+input {
+  margin: 5px;
+  padding: 5px;
+}
